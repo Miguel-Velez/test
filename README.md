@@ -1,6 +1,2 @@
 # test
-Modificacion VS
-Modificando en git bash
-Modificación en la nube
-Mod en rama secundaria
-Modificacion en VS de nuevo
+Quisiera ser un pez
